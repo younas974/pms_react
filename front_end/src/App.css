@@ -1,0 +1,445 @@
+
+@import 'react-datez/dist/css/react-datez.css';
+
+
+.level .level-item{
+    margin-bottom:  50px !important;
+}
+
+.MuiPopover-paper{
+    top: 0px !important;
+}
+
+@media (min-width: 600px){
+    .makeStyles-toolbar-3 {
+        min-height: 12px !important;
+    }
+}
+
+.makeStyles-contentShift-4 {
+  margin-left: 250px !important;
+}
+
+.makeStyles-contentShift-4 {
+  margin-left: 250px !important;
+}
+
+.makeStyles-content-2 {
+  padding-right: 0 !important;
+}
+
+.tetdcenter {
+  text-align: center;
+}
+.tetdbold {
+  font-weight: 600;
+}
+.thcolo {
+  color: #0c86db !important;
+  font-weight: 500;
+}
+
+.MuiAppBar-root{
+    margin-top: 3.7rem;
+}
+
+.MuiPaper-root{
+    margin-top: 3.7rem;
+}
+
+.MuiIcon-root{
+    width: 1.5em !important;
+    height: 1.5em !important;
+}
+
+.MuiTypography-root{
+    margin-left:0rem !important;
+}
+
+.col {
+  padding-right: 8px !important;
+  padding-left: 8px !important;
+}
+
+.PrivateTabIndicator-colorSecondary-32 {
+  background-color: #0c86db !important;
+}
+
+.deletebuttona {
+  color: rgb(122, 8, 8) !important;
+  padding: 0px 5px 0px 5px;
+}
+.editbuttona {
+  color: #5f6d21 !important;
+  padding: 0px 5px 0px 5px;
+}
+.tablealigncenter {
+  text-align: center !important;
+}
+
+.tableapptitle {
+  font-weight: 600 !important;
+  color: #333;
+}
+
+.tableloginlink {
+  color: rgb(14, 42, 133) !important;
+}
+
+.card-title-ppp {
+    color: #33353f;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 3px;
+    padding: 0;
+    text-transform: uppercase;
+    margin: 0;
+
+}
+
+.rowadcolor {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+@media (min-width: 1010px) {
+  .card-body11 {
+    /* height: auto; */
+    max-height: 601px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+}
+
+@media (min-width: 1010px) {
+  .scrollss {
+    /* height: auto; */
+    height: 430px;
+    overflow-y: scroll;
+    
+  }
+}
+@media (min-width: 1010px) {
+  .scrollps {
+    /* height: auto; */
+    height: 770px;
+    overflow-y: scroll;
+    
+  }
+}
+.formadjm {
+  margin-top: -94px;
+}
+.formfooterbtn {
+  float: right;
+}
+
+.PrivateTabIndicator-colorSecondary-32 {
+    background-color: #0c86db !important;
+}
+
+
+.MuiTab-textColorPrimary.Mui-selected {
+    color: blue;
+}
+
+.MuiPaper-root {
+  margin-top: 60px;
+}
+
+.MuiToolbar-regular {
+    min-height: 56px;
+}
+.muipaper-roor {
+  margin-top: 0 !important;
+}
+
+.colaskadj{
+
+    flex: 0 0 37.333333% !important;
+    max-width: 37.333333% !important;
+    padding: 0px !important;
+}
+
+.rowheaderadv {
+  padding-bottom: 6px !important;
+}
+
+.topheaderbtnadj {
+  margin-top: -3px !important;
+}
+
+.askpagetitledisable {
+  display: none !important;
+}
+
+.contopadj {
+  padding-bottom: 50px;
+}
+
+.MuiDataGrid-root .MuiDataGrid-menuIcon {
+  visibility: visible !important;
+}
+
+.MuiAvatar-img {
+  height: 150px !important;
+  width: 150px !important;
+  border-radius: 50%;
+}
+
+.MuiAvatar-root {
+  height: 150px !important;
+  width: 150px !important;
+  align-self: center;
+}
+
+.MuiAvatar-fallback {
+  height: 150px !important;
+  width: 150px !important;
+  border-radius: 50%;
+}
+
+.d-inline-b{
+  display: inline-block;
+}
+
+.ml4rem{
+  margin-left: 4rem;
+}
+
+/* .MuiToolbar-regular{
+  display: flex !important;
+} */
+
+.modelclose{
+    top: -31px;
+    right: -30px;
+    float: right;
+    position: relative;
+    font-size: 29px !important;
+    cursor: pointer;
+
+}
+
+.k-animation-container{
+  z-index: 10003 !important
+}
+
+.ant-select-dropdown-placement-bottomLeft{
+  z-index: 10003 !important
+}
+
+.ant-select-dropdown{
+  z-index: 10003 !important
+}
+
+.fr{
+  float: right;
+}
+
+/* claim notes */
+
+.ma{
+  margin: auto;
+}
+
+.textar{
+  width: 100%;
+    margin-top: 1rem;
+}
+
+.buttons{
+  float: right;
+  margin-right: 1.5rem;
+}
+
+
+
+/* reports  */
+
+#table-wrapper {
+  height: 225px;
+  
+ padding: 0px;
+ margin: 0px auto 0px auto;
+ overflow-y: scroll;
+  
+}
+#table-wrapper2 {
+  height: 200px;
+  
+ padding: 0px;
+ margin: 0px auto 0px auto;
+ overflow-y: scroll;
+  
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 25px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 7px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a8bbbf;
+}
+.tdfiftypc{width: 50%;}
+.tdtwentypc{width: 20%;}
+.tdfourtypc{width: 40%;}
+.tdfourtfiveypc{width: 45%;}
+
+.tdtwentypc{width: 20%;}
+.tdsixtypc{width: 60%;}
+
+
+#table-wrapper2 {
+  height: 200px;
+  padding: 0px;
+  margin: 0px auto 0px auto;
+  overflow-y: scroll;
+  width: 100% !important;
+  display: contents;
+  
+  }
+ 
+#table-wrapper3 {
+  height: auto;
+  
+ padding: 0px;
+ margin: 0px auto 0px auto;
+ overflow-y: scroll;
+  
+}
+
+.error-code2 {
+  font-size: 1.2rem;
+  line-height: 160px;
+  line-height: 10rem;
+  letter-spacing: 0px;
+}
+.body-error.error-inside2 {
+  margin-top: 0;
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 25px;
+  height: 16px !important;
+}
+ 
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 7px solid transparent;
+  background-clip: content-box;
+}
+ 
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a8bbbf;
+}
+
+.under_line{
+  text-decoration: underline;
+}
+
+.add-notes{
+  display: flow-root;
+  margin-bottom: 1rem;
+}
+
+.table-fixed{
+  width: 100%;
+  background-color: #f3f3f3;
+}
+
+.containertab1{height: 236px !important;}
+
+
+.containertab2{height: 236px !important;}
+.footerstickybg{background-color: #fff; position:sticky;}
+
+.adjdatefolloup {
+  margin-top: -14px;
+  
+  }
+.lablepaddignford{padding-left: 20px; padding-right: 20px; font-size: 13px;}
+
+  .notfoundc{
+    position: relative;
+    left: 10rem;
+  }
+
+  
+
+
+  @media (min-width: 1000px) {
+
+    .inputallc{
+      position: relative;
+      top: 50px;
+      z-index: 1;
+      left: 35px;
+      padding-right: 10rem;
+    }
+    
+    }  
+
+
+    .colorbb{
+      color: #1565c0;
+      font-weight: bold;
+    }
+    .ant-form-item-label > label{font-size: 13px !important;}
+.ant-form-item {margin-bottom: 0px !important;}
+
+.form-control:disabled, .form-control[readonly] {
+  background-color: #ffffff;
+  opacity: 1;
+}
+
+.ppsdlib {
+  max-width: 40px;
+    max-height: 40px;
+    vertical-align: middle;
+}
+
+.ppsdlib img{
+  zoom: 28%;
+}
+
+.ppsdlib svg{
+  zoom: 28%;
+}
+
+.extcls{
+  max-width: 10px;
+  max-height: 10px;
+}
+
+.MuiTableCell-root{background-color: #fff;}
+.MuiTableCell-head{background-color: #f2f2f2;}
+.MuiTypography-h6{color: #333 !important;
+    background-color: #fff !important;
+    border-bottom: 4px #0088cc solid !important;
+	line-height: 3.0 !important;
+     
+	font-weight: 400 !important; 
+	font-family: "Open Sans" !important;
+}
+
+.myclass svg {
+  width: 27px;
+}

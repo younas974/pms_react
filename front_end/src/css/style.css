@@ -1,0 +1,64 @@
+.card-header{
+    background: #0088cc !important;
+}
+
+
+.MuiList-padding{
+    overflow: scroll;
+}
+
+.nps{
+    margin-top: 5rem;
+    text-align: center;
+}
+
+form > div.form-ask-height > div > div:nth-child(3){
+     padding-top: 1rem !important;
+ }
+
+ .vsn{
+     visibility: hidden !important;
+ }
+
+ .invalid{
+     border: 1px solid red
+ }
+
+ .form-control > span {
+     color: red  !important
+ }
+
+
+ input[type="number"]::-webkit-outer-spin-button,
+ input[type="number"]::-webkit-inner-spin-button {
+     -webkit-appearance: none !important;
+     margin: 0 !important;
+ }
+
+input[type=number] {
+    -moz-appearance: textfield !important;
+  } 
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.MuiDialog-paperFullScreen{
+    height: auto !important;
+}
+
+.f-w{
+
+    color: white !important
+}
+
+.MuiToolbar-gutters{
+    display: flex !important;
+}

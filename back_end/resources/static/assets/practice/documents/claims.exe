@@ -1,0 +1,39 @@
+
+                        <div class="col-md-6">
+							<section class="card mb-4">
+								<header class="card-header">
+									 
+
+									<h2 class="card-title">Claim Notes</h2>
+								</header>
+								<div class="card-body ppaddingzero">
+									<div class="alertclaims alert-default22">
+										 
+                                        <div class="row show-grid">
+                                            <div class="col-lg-6"> <strong>USER: AFTAB KHALID</strong> </div>
+                                            <div class="col-lg-6"> <span class="claimsdateflr"><strong>Date: 8-18-2021 </strong></span></div>
+                                        </div>
+									 
+									</div>
+
+                                  <p class="claimstextp"> In publishing and graphic design, Lorem ipsum is a placeholder text commonly used 
+                                    to demonstrate the visual form of a document or a typeface without relying on 
+                                    meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
+								</div>
+                                <div class="card-footer claimsdateflr">
+									<span class="claimsdateflr">Add Notes </span>
+								</div>
+                                <div class="card-footer">
+									<div class="card-body claimsdateflr">
+                                        <button type="button" class="mb-1 mt-1 mr-1 btn btn-sm btn-default">  CANCEL</button>
+                                        <button type="button" class="mb-1 mt-1 mr-1 btn btn-sm btn-primary"><i class="fa fa-plus"></i> SAVE</button>
+                                        
+                                    </div>
+								</div>
+							</section>
+						
+                        
+                        
+                        </div>
+
+					 
